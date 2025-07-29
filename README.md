@@ -43,8 +43,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/singh04ayush/imagify.git
-cd imagify
+git clone https://github.com/Bharatlovewanshi/Imagify.git
+cd Imagify
 ```
 
 ### 2. Backend Setup
